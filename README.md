@@ -1,13 +1,19 @@
-
-
-# Ignite Teams App
-
-<br />
-<br />
 <div align="center">
-  <image src="https://user-images.githubusercontent.com/26945693/217905178-f6af8a80-ca9f-4e35-b71d-fb1c9270a9a4.png" />
-</div>
+  <h1>Ignite Teams App</h1>
+  
+  <br />
+  
+   <image src="https://user-images.githubusercontent.com/26945693/217905178-f6af8a80-ca9f-4e35-b71d-fb1c9270a9a4.png" />
 
+   <p>
+      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EduardoDrozda/igniteteams?color=%32B768">
+      <a href="https://www.linkedin.com/in/henrique-martins-5b2bb71a5/" target="_blank" rel="noopener noreferrer">
+        <img alt="Made by" src="https://img.shields.io/badge/made%20by-Eduardo%20Drozda-%32B768">
+      </a>          
+      <img alt="GitHub" src="https://img.shields.io/github/license/hmartiins/plantmanager?color=%32B768">
+    </p>
+   </div>
+   
 ## Table of Contents
 
 - [Description](#description)
